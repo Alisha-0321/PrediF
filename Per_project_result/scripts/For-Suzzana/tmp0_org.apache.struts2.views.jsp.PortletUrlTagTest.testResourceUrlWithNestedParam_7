@@ -1,0 +1,3 @@
+-0.56167823,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrlWithNestedParam,org.apache.struts2.portlet.PortletRequestMapTest.testClear']
+-0.5039783,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrlWithNestedParam,org.apache.struts2.portlet.PortletRequestMapTest.testGet']
+-0.12978111,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrlWithNestedParam,org.apache.struts2.portlet.PortletApplicationMapTest.testGetFromAttributes']

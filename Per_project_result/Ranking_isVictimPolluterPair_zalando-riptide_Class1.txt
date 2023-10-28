@@ -1,0 +1,3 @@
+-0.0008636559,<VIC>['org.zalando.riptide.spring.metrics.MetricsTest.shouldRecordRetries,org.zalando.riptide.spring.metrics.MetricsTest.shouldRecordCircuitBreakers']
+-0.0006642519,<VIC>['org.zalando.riptide.spring.metrics.MetricsTest.shouldRecordRequests,org.zalando.riptide.spring.metrics.MetricsTest.shouldRecordRetries']
+-0.0006250573,<VIC>['org.zalando.riptide.spring.metrics.MetricsTest.shouldRecordRequests,org.zalando.riptide.spring.metrics.MetricsTest.shouldRecordCircuitBreakers']

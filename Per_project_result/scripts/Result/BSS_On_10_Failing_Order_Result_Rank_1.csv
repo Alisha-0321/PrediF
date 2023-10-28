@@ -1,0 +1,11 @@
+Activiti/Activiti,b11f757a48600e53aaf3fcb7a3ba1ece6c463cb4,activiti-spring-boot-starter,0,14.50,156.61,.30
+alibaba/fastjson,5c6d6fd471ea1fab59f0df2dd31e0b936806780d,.,2,1.20,17.60,.33
+apache/incubator-dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-rpc/dubbo-rpc-dubbo,1,2.80,206.67,.28
+doanduyhai/Achilles,e3099bdce342910951c4862c78751fd81ed4552e,integration-test-2_1,0,2.20,80.24,.25
+fhoeben/hsac-fitnesse-fixtures,a64c18d9c4bac8271275c7b089d40be20f0604b5,.,0,12.20,84.92,.24
+hexagonframework/spring-data-ebean,dd11b97654982403b50dd1d5369cadad71fce410,.,2,1.00,6.00,.29
+spring-projects/spring-boot,daa3d457b71896a758995c264977bdd1414ee4d4,spring-boot-project/spring-boot-test,1,1.00,27.41,.29
+spring-projects/spring-boot,daa3d457b71896a758995c264977bdd1414ee4d4,spring-boot-project/spring-boot-test-autoconfigure,0,111.10,10923.13,.25
+vmware/admiral,e4b02936cc7d4ff2714e7231db0c4373ba5d48a2,compute,0,67.70,557.75,.29
+wikidata/wikidata-toolkit,20de6f7f12319f54eb962ff6e8357b3f5695d54d,wdtk-dumpfiles,2,3.16,9.61,.28
+wildfly/wildfly,b19048b72669fc0e96665b1b125dc1fda21f5993,naming,0,22.50,113.91,.28

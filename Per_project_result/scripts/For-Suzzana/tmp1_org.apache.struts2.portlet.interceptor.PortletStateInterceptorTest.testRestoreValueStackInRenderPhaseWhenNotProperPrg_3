@@ -1,0 +1,7 @@
+-0.051725622,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testRestoreValueStackInRenderPhaseWhenNotProperPrg,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testModeChangeUsingPortletWidgets']
+-0.060326584,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testRestoreValueStackInRenderPhaseWhenNotProperPrg,org.apache.struts2.portlet.PortletApplicationMapTest.testClear']
+-0.06874091,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testRestoreValueStackInRenderPhaseWhenNotProperPrg,org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testModeChangeUsingPortletWidgets']
+-0.068915844,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testRestoreValueStackInRenderPhaseWhenNotProperPrg,org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testRender_ok']
+-0.0836338,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testRestoreValueStackInRenderPhaseWhenNotProperPrg,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testParseConfigWithBang']
+-0.092981935,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testRestoreValueStackInRenderPhaseWhenNotProperPrg,org.apache.struts2.portlet.context.PortletActionContextTest.testGetRenderRequestAndResponseInEventPhase']
+-0.11915359,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testRestoreValueStackInRenderPhaseWhenNotProperPrg,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testProcessAction_ok']

@@ -1,0 +1,4 @@
+-0.3143156,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithMethod,org.apache.struts2.portlet.PortletRequestMapTest.testClear']
+-0.28494617,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithMethod,org.apache.struts2.portlet.PortletRequestMapTest.testRemove']
+-0.24764615,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithMethod,org.apache.struts2.components.PortletUrlRendererTest.testIsPortelModeChanged']
+-0.21552987,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithMethod,org.apache.struts2.portlet.PortletApplicationMapTest.testGetFromAttributes']

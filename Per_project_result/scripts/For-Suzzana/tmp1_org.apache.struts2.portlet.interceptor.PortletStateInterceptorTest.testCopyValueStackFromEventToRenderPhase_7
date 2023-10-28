@@ -1,0 +1,8 @@
+-0.02573318,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testRender_ok']
+-0.041126437,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase,org.apache.struts2.portlet.PortletApplicationMapTest.testPut']
+-0.046521664,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase,org.apache.struts2.portlet.result.PortletResultTest.testTitleAndContentType']
+-0.054472826,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase,org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testRender_ok']
+-0.069981135,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase,org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testModeChangeUsingPortletWidgets']
+-0.26387164,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testParseConfigWithBang']
+-0.36047032,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase,org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testParseConfigWithBang']
+-0.45908722,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase,org.apache.struts2.views.jsp.PortletUrlTagTest.testEnsureParamsAreStringArrays']

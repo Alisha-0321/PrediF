@@ -1,0 +1,5 @@
+-0.2524203,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testDoNotRestoreValueStackInRenderPhaseWhenProperPrg,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testRender_ok']
+-0.36671153,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testDoNotRestoreValueStackInRenderPhaseWhenProperPrg,org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testModeChangeUsingPortletWidgets']
+-0.37072572,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testDoNotRestoreValueStackInRenderPhaseWhenProperPrg,org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testRender_ok']
+-0.49592647,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testDoNotRestoreValueStackInRenderPhaseWhenProperPrg,org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testParseConfigWithBang']
+-0.6714267,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testDoNotRestoreValueStackInRenderPhaseWhenProperPrg,org.apache.struts2.portlet.PortletApplicationMapTest.testPut']
