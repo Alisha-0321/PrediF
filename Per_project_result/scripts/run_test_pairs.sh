@@ -106,7 +106,7 @@ do
         tar -zxvf protobuf-2.5.0.tar.gz;
         cd protobuf-2.5.0
         ./configure; make -j15;
-        su shanto-admin
+        su admin
         sudo make install;
         sudo ldconfig;
         cd ..
