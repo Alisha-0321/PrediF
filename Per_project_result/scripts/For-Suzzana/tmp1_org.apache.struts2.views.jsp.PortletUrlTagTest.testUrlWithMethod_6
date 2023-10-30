@@ -1,5 +1,0 @@
--0.01884497,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithMethod,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testRender_ok']
--0.035569195,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithMethod,org.apache.struts2.views.jsp.PortletUrlTagTest.testSetPortletMode']
--0.06411111,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithMethod,org.apache.struts2.portlet.context.PortletActionContextTest.testGetActionRequestAndResponseInRenderPhase']
--0.12413917,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithMethod,org.apache.struts2.portlet.context.PortletActionContextTest.testGetPhase']
--0.15888168,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithMethod,org.apache.struts2.portlet.context.PortletActionContextTest.testIsEvent']

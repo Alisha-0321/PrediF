@@ -1,0 +1,3 @@
+-0.69202936,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testSetPortletMode,org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testParseConfigWithBang']
+-0.49661055,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testSetPortletMode,org.apache.struts2.portlet.result.PortletResultTest.testTitleAndContentType']
+-0.096824855,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testSetPortletMode,org.apache.struts2.portlet.context.PortletActionContextTest.testGetPortletConfig']

@@ -1,3 +1,0 @@
--0.0004870897,<VIC>['org.springframework.boot.test.autoconfigure.web.servlet.mockmvc.WebMvcTestWebDriverCustomScopeIntegrationTests.shouldBeTheSameWebClient,org.springframework.boot.test.autoconfigure.web.servlet.mockmvc.WebMvcTestWebDriverCustomScopeIntegrationTests.shouldAutoConfigureWebClient']
--0.0002971446,<VIC>['org.springframework.boot.test.autoconfigure.web.servlet.mockmvc.WebMvcTestWebDriverIntegrationTests.shouldBeADifferentWebClient,org.springframework.boot.test.autoconfigure.web.servlet.mockmvc.WebMvcTestWebDriverIntegrationTests.shouldAutoConfigureWebClient']
--0.00062303204,<VIC>['org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListenerTests.test002,org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListenerTests.test001']

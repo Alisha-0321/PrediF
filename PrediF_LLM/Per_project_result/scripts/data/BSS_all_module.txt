@@ -1,0 +1,14 @@
+Activiti/Activiti,b11f757a48600e53aaf3fcb7a3ba1ece6c463cb4,activiti-spring-boot-starter
+alibaba/fastjson,5c6d6fd471ea1fab59f0df2dd31e0b936806780d,
+apache/incubator-dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-config/dubbo-config-api
+apache/incubator-dubbo,737f7a7ea67832d7f17517326fb2491d0a086dd7,dubbo-rpc/dubbo-rpc-dubbo
+doanduyhai/Achilles,e3099bdce342910951c4862c78751fd81ed4552e,integration-test-2_1
+fhoeben/hsac-fitnesse-fixtures,a64c18d9c4bac8271275c7b089d40be20f0604b5,
+hexagonframework/spring-data-ebean,dd11b97654982403b50dd1d5369cadad71fce410,
+project,sha,module
+spring-projects/spring-boot,daa3d457b71896a758995c264977bdd1414ee4d4,spring-boot-project/spring-boot-test
+spring-projects/spring-boot,daa3d457b71896a758995c264977bdd1414ee4d4,spring-boot-project/spring-boot-test-autoconfigure
+vmware/admiral,e4b02936cc7d4ff2714e7231db0c4373ba5d48a2,compute
+wikidata/wikidata-toolkit,20de6f7f12319f54eb962ff6e8357b3f5695d54d,wdtk-dumpfiles
+wildfly/wildfly,b19048b72669fc0e96665b1b125dc1fda21f5993,naming
+wildfly/wildfly,b19048b72669fc0e96665b1b125dc1fda21f5993,security/subsystem

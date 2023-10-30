@@ -1,7 +1,0 @@
--0.52164423,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testModeChangeUsingPortletWidgets,org.apache.struts2.portlet.PortletApplicationMapTest.testClear']
--0.5421195,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testModeChangeUsingPortletWidgets,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testModeChangeUsingPortletWidgets']
--0.6049438,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testModeChangeUsingPortletWidgets,org.apache.struts2.portlet.context.PortletActionContextTest.testGetRenderRequestAndResponseInEventPhase']
--0.6093209,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testModeChangeUsingPortletWidgets,org.apache.struts2.portlet.context.PortletActionContextTest.testGetActionRequestAndResponseInRenderPhase']
--0.6445114,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testModeChangeUsingPortletWidgets,org.apache.struts2.portlet.PortletRequestMapTest.testClear']
--0.65066487,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testModeChangeUsingPortletWidgets,org.apache.struts2.portlet.PortletSessionMapTest.testRemove']
--0.6774388,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testModeChangeUsingPortletWidgets,org.apache.struts2.portlet.PortletRequestMapTest.testPut']

@@ -1,0 +1,2 @@
+-0.06213825,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithQueryParams,org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testRender_ok']
+-0.06443787,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithQueryParams,org.apache.struts2.portlet.PortletRequestMapTest.testPut']

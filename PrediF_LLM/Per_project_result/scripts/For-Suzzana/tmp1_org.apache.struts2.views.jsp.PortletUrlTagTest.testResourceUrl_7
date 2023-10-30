@@ -1,0 +1,6 @@
+-0.015898373,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrl,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testRender_ok']
+-0.01981149,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrl,org.apache.struts2.portlet.result.PortletResultTest.testTitleAndContentType']
+-0.034361195,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrl,org.apache.struts2.views.jsp.PortletUrlTagTest.testSetPortletMode']
+-0.03613746,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrl,org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithMethod']
+-0.10798204,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrl,org.apache.struts2.portlet.context.PortletActionContextTest.testGetPhase']
+-0.11872503,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrl,org.apache.struts2.portlet.context.PortletActionContextTest.testIsEvent']

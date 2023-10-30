@@ -1,5 +1,0 @@
--0.6892502,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testRender_ok,org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testModeChangeUsingPortletWidgets']
--0.55737394,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testRender_ok,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testParseConfigWithBang']
--0.5551966,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testRender_ok,org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testParseConfigWithBang']
--0.0510437,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testRender_ok,org.apache.struts2.views.jsp.PortletUrlTagTest.testEnsureParamsAreStringArrays']
--0.02123805,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testRender_ok,org.apache.struts2.portlet.result.PortletResultTest.testTitleAndContentType']

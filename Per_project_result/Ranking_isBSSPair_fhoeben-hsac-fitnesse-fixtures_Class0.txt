@@ -1,4 +1,0 @@
--0.0011369677,<VIC>['nl.hsac.fitnesse.fixture.slim.FileFixtureTest.testDelete,nl.hsac.fitnesse.junit.selenium.SeleniumGridDriverFactoryFactoryTest.testCapabilitiesParseBasic']
--0.0011594724,<VIC>['nl.hsac.fitnesse.fixture.slim.FileFixtureTest.testDelete,nl.hsac.fitnesse.junit.selenium.SeleniumGridDriverFactoryFactoryTest.testCapabilitiesParseWithColonInValue']
--0.0011299422,<VIC>['nl.hsac.fitnesse.fixture.slim.FileFixtureTest.testDelete,nl.hsac.fitnesse.junit.selenium.SeleniumGridDriverFactoryFactoryTest.testCapabilitiesParseWithQuotes']
--0.0011242267,<VIC>['nl.hsac.fitnesse.fixture.slim.FileFixtureTest.testDelete,nl.hsac.fitnesse.fixture.util.ThrowingFunctionTest.testNoThrow']

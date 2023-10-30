@@ -1,2 +1,0 @@
--0.0026598335,<VIC>['lv.ctco.cukes.http.facade.HttpAssertionFacadeImplTest.shouldReturnBodyWhenEnabledAndNoMax,lv.ctco.cukes.http.facade.HttpAssertionFacadeImplTest.shouldNotReturnBodyWhenEnabledButLongerThanMaxSize']
--0.26799008,<VIC>['lv.ctco.cukes.http.facade.HttpAssertionFacadeImplTest.shouldReturnBodyWhenEnabledAndNoMax,lv.ctco.cukes.http.facade.HttpAssertionFacadeImplTest.shouldNotReturnBodyWhenDisabled']

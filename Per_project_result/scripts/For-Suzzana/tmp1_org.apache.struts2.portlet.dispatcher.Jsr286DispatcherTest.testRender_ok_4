@@ -1,4 +1,0 @@
--0.51324546,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testRender_ok,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testModeChangeUsingPortletWidgets']
--0.54939306,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testRender_ok,org.apache.struts2.portlet.PortletApplicationMapTest.testEntrySet']
--0.65871644,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testRender_ok,org.apache.struts2.portlet.util.PortletUrlHelperTest.testCreateRenderUrlWithDifferentWindowState']
--0.6694442,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testRender_ok,org.apache.struts2.portlet.PortletApplicationMapTest.testPut']

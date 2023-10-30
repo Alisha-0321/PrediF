@@ -1,0 +1,3 @@
+-0.10850506,<VIC>['cern.c2mon.server.elasticsearch.tag.config.TagConfigDocumentIndexerTests.reindexTagConfigDocuments,cern.c2mon.server.elasticsearch.tag.config.TagConfigDocumentIndexerTests.addDataTag']
+-0.0017614339,<VIC>['cern.c2mon.server.elasticsearch.tag.TagDocumentIndexerTests.indexTags,cern.c2mon.server.elasticsearch.tag.config.TagConfigDocumentIndexerTests.addDataTag']
+-0.09841425,<VIC>['cern.c2mon.server.elasticsearch.tag.config.TagConfigDocumentIndexerTests.reindexTagConfigDocuments,cern.c2mon.server.elasticsearch.tag.config.TagConfigDocumentIndexerTests.removeDataTag']

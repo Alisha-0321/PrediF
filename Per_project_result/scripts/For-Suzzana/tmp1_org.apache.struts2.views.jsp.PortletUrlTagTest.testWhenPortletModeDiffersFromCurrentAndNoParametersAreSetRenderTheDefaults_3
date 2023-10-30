@@ -1,7 +1,0 @@
--0.018216219,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testWhenPortletModeDiffersFromCurrentAndNoParametersAreSetRenderTheDefaults,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testModeChangeUsingPortletWidgets']
--0.021661479,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testWhenPortletModeDiffersFromCurrentAndNoParametersAreSetRenderTheDefaults,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testParseConfigWithBang']
--0.026809946,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testWhenPortletModeDiffersFromCurrentAndNoParametersAreSetRenderTheDefaults,org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithNoActionOrMethod']
--0.026973223,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testWhenPortletModeDiffersFromCurrentAndNoParametersAreSetRenderTheDefaults,org.apache.struts2.views.jsp.PortletUrlTagTest.testSetWindowState']
--0.027758252,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testWhenPortletModeDiffersFromCurrentAndNoParametersAreSetRenderTheDefaults,org.apache.struts2.views.jsp.PortletUrlTagTest.testActionUrl']
--0.028901866,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testWhenPortletModeDiffersFromCurrentAndNoParametersAreSetRenderTheDefaults,org.apache.struts2.portlet.PortletSessionMapTest.testPut']
--0.113308996,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testWhenPortletModeDiffersFromCurrentAndNoParametersAreSetRenderTheDefaults,org.apache.struts2.portlet.context.PortletActionContextTest.testGetPortletConfig']

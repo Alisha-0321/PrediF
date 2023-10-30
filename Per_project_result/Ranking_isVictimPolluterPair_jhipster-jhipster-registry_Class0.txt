@@ -1,5 +1,0 @@
--0.004491954,<VIC>['io.github.jhipster.registry.web.rest.errors.ExceptionTranslatorTest.processMethodNotSupportedExceptionTest,io.github.jhipster.registry.web.rest.errors.ExceptionTranslatorTest.processParameterizedValidationErrorTest']
--0.004513434,<VIC>['io.github.jhipster.registry.web.rest.errors.ExceptionTranslatorTest.processMethodNotSupportedExceptionTest,io.github.jhipster.registry.web.rest.errors.ExceptionTranslatorTest.processRuntimeExceptionTest']
--0.0011893588,<VIC>['io.github.jhipster.registry.web.rest.errors.ExceptionTranslatorTest.processMethodNotSupportedExceptionTest,io.github.jhipster.registry.web.rest.AccountResourceTest.testGetExistingAccount']
--0.0045098737,<VIC>['io.github.jhipster.registry.web.rest.errors.ExceptionTranslatorTest.processMethodNotSupportedExceptionTest,io.github.jhipster.registry.web.rest.errors.ExceptionTranslatorTest.processValidationErrorTest']
--0.004495989,<VIC>['io.github.jhipster.registry.web.rest.errors.ExceptionTranslatorTest.processMethodNotSupportedExceptionTest,io.github.jhipster.registry.web.rest.errors.ExceptionTranslatorTest.processAccessDeniedExceptionTest']

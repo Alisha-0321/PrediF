@@ -1,7 +1,0 @@
--0.034051422,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testProcessAction_ok']
--0.038758863,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase,org.apache.struts2.portlet.PortletApplicationMapTest.testRemove']
--0.043181688,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase,org.apache.struts2.views.jsp.PortletUrlTagTest.testSetWindowState']
--0.04453074,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase,org.apache.struts2.views.jsp.PortletUrlTagTest.testActionUrl']
--0.054472826,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase,org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testRender_ok']
--0.057532072,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase,org.apache.struts2.portlet.util.PortletUrlHelperTest.testCreateActionUrl']
--0.18014863,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase,org.apache.struts2.portlet.context.PortletActionContextTest.testIsAction']

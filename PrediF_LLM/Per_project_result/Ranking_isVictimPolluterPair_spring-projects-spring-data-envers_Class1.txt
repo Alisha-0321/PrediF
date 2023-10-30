@@ -1,0 +1,3 @@
+-0.00015376817,<VIC>['org.springframework.data.envers.repository.support.QueryDslRepositoryIntegrationTests.testWithRevisions,org.springframework.data.envers.repository.support.RepositoryIntegrationTests.testLifeCycle']
+-0.02320934,<VIC>['org.springframework.data.envers.repository.support.QueryDslRepositoryIntegrationTests.testWithQueryDsl,org.springframework.data.envers.repository.support.RepositoryIntegrationTests.testLifeCycle']
+-0.03999455,<VIC>['org.springframework.data.envers.repository.support.QueryDslRepositoryIntegrationTests.testWithRevisions,org.springframework.data.envers.repository.support.RepositoryIntegrationTests.findsDeletedRevisions']

@@ -1,3 +1,0 @@
--0.0004819662,<VIC>['org.zalando.riptide.spring.metrics.MetricsTest.shouldRecordRetries,org.zalando.riptide.spring.metrics.MetricsTest.shouldRecordRequests']
--0.0036714545,<VIC>['org.zalando.riptide.spring.metrics.MetricsTest.shouldRecordRetries,org.zalando.riptide.spring.OAuthConfigurationTest.shouldUseTimeouts']
--0.0036897454,<VIC>['org.zalando.riptide.spring.metrics.MetricsTest.shouldRecordRequests,org.zalando.riptide.spring.OAuthConfigurationTest.shouldUseTimeouts']

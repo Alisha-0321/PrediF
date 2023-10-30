@@ -1,0 +1,4 @@
+-0.24932772,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrlWithTwoNestedParam,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testParseConfigWithBang']
+-0.060955886,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrlWithTwoNestedParam,org.apache.struts2.portlet.PortletApplicationMapTest.testRemove']
+-0.042631347,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrlWithTwoNestedParam,org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testDoNotRestoreValueStackInRenderPhaseWhenProperPrg']
+-0.020083645,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrlWithTwoNestedParam,org.apache.struts2.portlet.result.PortletResultTest.testTitleAndContentType']

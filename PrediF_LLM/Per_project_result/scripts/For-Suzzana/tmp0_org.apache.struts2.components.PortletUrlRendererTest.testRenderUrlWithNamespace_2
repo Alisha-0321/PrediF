@@ -1,0 +1,3 @@
+-0.6596541,<VIC>['org.apache.struts2.components.PortletUrlRendererTest.testRenderUrlWithNamespace,org.apache.struts2.portlet.PortletApplicationMapTest.testRemove']
+-0.11832998,<VIC>['org.apache.struts2.components.PortletUrlRendererTest.testRenderUrlWithNamespace,org.apache.struts2.portlet.PortletRequestMapTest.testRemove']
+-0.1098605,<VIC>['org.apache.struts2.components.PortletUrlRendererTest.testRenderUrlWithNamespace,org.apache.struts2.portlet.PortletSessionMapTest.testClear']
