@@ -28,3 +28,12 @@ bash per_project_prediction.sh vpCombis_balanced "test"
 ```
 
 # PrediF_O
+
+These are the steps that are needed to be followed to run PrediF_O,
+
+Step-1:
+```shell
+cd PrediF_O/
+```
+
+
