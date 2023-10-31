@@ -38,7 +38,7 @@ cd PrediF_O/
 
 Step-2: 
 
-Download the zip from the link in "10_OTO.txt" file. This contains all the 10 Orders of 1000 Test Orders(10 OTO's).
+Download the zip and extract it from the link in "10_OTO.txt" file. This contains all the 10 Orders of 1000 Test Orders(10 OTO's).
 
 Step-3:
 
