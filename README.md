@@ -37,9 +37,26 @@ cd PrediF_O/
 ```
 
 Step-2: 
+
 Download the zip from the link in "10_OTO.txt" file. This contains all the 10 Orders of 1000 Test Orders(10 OTO's).
 
 Step-3:
 
+To setup the environment to run PrediF_O for 10 OTO's, run the following command.
+```shell
+bash setup.sh
+```
+
+Step-4:
+
+For running PrediF_O for a specific OTO:
+Let's say you are running PrediF_O for 2nd OTO, for #Methods heuristic, for Brittle-Statesetters, run the following commands.
+```shell
+cd Results 
+cd 2 #for 2nd OTO
+cd "Ranking - #Methods/" #for #Methods heuristic
+cd "BSS/" #for Brittle-Statesetters
+python3 getStat.py #to run PrediF_O
+```
 
 
