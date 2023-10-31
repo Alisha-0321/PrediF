@@ -31,9 +31,10 @@ bash per_project_prediction.sh vpCombis_balanced "test"
 
 These are the steps that are needed to be followed to run PrediF_O,
 
-Step-1:
-```shell
+Step-1: ```shell
 cd PrediF_O/
 ```
+
+Step-2: Download the 
 
 
