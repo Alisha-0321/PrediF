@@ -34,7 +34,7 @@ def copyFolders():
         ranks=["Ranking - #Methods/","Ranking - All/","Ranking - Distance To Victim/","Ranking - Plus One/"]
         for rank in ranks:
             destLoc=destRoot+y+rank            
-            copyDir("../"+rank,destLoc)
+            copyDir(rank,destLoc)
             types=["VP/","VC/","BSS/"]
             for type in types:
                 copy_file_with_new_name("../10Of1000Orders/randomOrders_"+str(i)+".csv",destLoc+type,"randomOrders.csv")
