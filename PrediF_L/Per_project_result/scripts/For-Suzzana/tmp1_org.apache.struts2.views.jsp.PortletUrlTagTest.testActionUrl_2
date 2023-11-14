@@ -1,0 +1,6 @@
+-0.02982829,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testActionUrl,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testProcessAction_ok']
+-0.19375245,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testActionUrl,org.apache.struts2.portlet.util.PortletUrlHelperTest.testCreateActionUrl']
+-0.22186682,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testActionUrl,org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testRender_ok']
+-0.27145085,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testActionUrl,org.apache.struts2.views.jsp.PortletUrlTagTest.testSetWindowState']
+-0.361702,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testActionUrl,org.apache.struts2.portlet.PortletApplicationMapTest.testRemove']
+-0.6633707,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testActionUrl,org.apache.struts2.portlet.context.PortletActionContextTest.testIsAction']

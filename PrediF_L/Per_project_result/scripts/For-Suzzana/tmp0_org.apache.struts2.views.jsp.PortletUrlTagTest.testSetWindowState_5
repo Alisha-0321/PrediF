@@ -1,0 +1,7 @@
+-0.62338746,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testSetWindowState,org.apache.struts2.portlet.context.PortletActionContextTest.testGetDefaultActionForMode']
+-0.614357,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testSetWindowState,org.apache.struts2.portlet.PortletRequestMapTest.testRemove']
+-0.55379283,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testSetWindowState,org.apache.struts2.portlet.PortletRequestMapTest.testPut']
+-0.4315698,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testSetWindowState,org.apache.struts2.portlet.PortletApplicationMapTest.testGetFromAttributes']
+-0.31603402,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testSetWindowState,org.apache.struts2.portlet.PortletRequestMapTest.testClear']
+-0.2752917,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testSetWindowState,org.apache.struts2.portlet.interceptor.PortletAwareInterceptorTest.testPortletRequestIsSet']
+-0.05451629,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testSetWindowState,org.apache.struts2.portlet.PortletRequestMapTest.testGet']

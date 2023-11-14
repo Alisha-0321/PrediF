@@ -1,0 +1,3 @@
+-0.30462617,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrlWithTwoNestedParam,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testModeChangeUsingPortletWidgets']
+-0.4434281,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrlWithTwoNestedParam,org.apache.struts2.portlet.PortletApplicationMapTest.testEntrySet']
+-0.4447388,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrlWithTwoNestedParam,org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testRender_ok']

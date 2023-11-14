@@ -1,0 +1,5 @@
+-0.6488744,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testDoNotRestoreValueStackInRenderPhaseWhenProperPrg,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testParseConfigWithBang']
+-0.07665694,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testDoNotRestoreValueStackInRenderPhaseWhenProperPrg,org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase']
+-0.036730688,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testDoNotRestoreValueStackInRenderPhaseWhenProperPrg,org.apache.struts2.views.jsp.PortletUrlTagTest.testEnsureParamsAreStringArrays']
+-0.027661085,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testDoNotRestoreValueStackInRenderPhaseWhenProperPrg,org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithMethod']
+-0.027308628,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testDoNotRestoreValueStackInRenderPhaseWhenProperPrg,org.apache.struts2.portlet.result.PortletResultTest.testTitleAndContentType']

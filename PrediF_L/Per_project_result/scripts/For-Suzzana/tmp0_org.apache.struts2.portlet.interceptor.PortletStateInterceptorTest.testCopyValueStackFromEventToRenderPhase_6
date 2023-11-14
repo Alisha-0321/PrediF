@@ -1,0 +1,2 @@
+-0.5936905,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase,org.apache.struts2.portlet.interceptor.PortletAwareInterceptorTest.testPortletRequestIsSet']
+-0.07607103,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase,org.apache.struts2.portlet.PortletRequestMapTest.testClear']

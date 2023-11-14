@@ -1,4 +1,4 @@
-This repository contains two approaches to predict the tests that an order-dependent test may be dependent on. To run PrediF_LLM, follow the following steps,
+This repository contains two approaches to predict the tests that an order-dependent test may be dependent on. To run PrediF_L, follow the following steps,
 
 # PrediF_L
 

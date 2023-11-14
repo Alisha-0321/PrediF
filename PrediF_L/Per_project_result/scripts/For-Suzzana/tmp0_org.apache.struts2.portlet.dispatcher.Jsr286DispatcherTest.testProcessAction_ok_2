@@ -1,0 +1,4 @@
+-0.5346594,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testProcessAction_ok,org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testCopyValueStackFromEventToRenderPhase']
+-0.45650616,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testProcessAction_ok,org.apache.struts2.portlet.context.PortletActionContextTest.testIsAction']
+-0.28005284,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testProcessAction_ok,org.apache.struts2.portlet.result.PortletResultTest.testDoExecute_render']
+-0.27704638,<VIC>['org.apache.struts2.portlet.dispatcher.Jsr286DispatcherTest.testProcessAction_ok,org.apache.struts2.components.PortletUrlRendererTest.testRenderUrlWithNamespace']

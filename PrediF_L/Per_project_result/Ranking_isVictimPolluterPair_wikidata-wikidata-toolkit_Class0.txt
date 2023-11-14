@@ -1,0 +1,2 @@
+-0.0050709206,<VIC>['org.wikidata.wdtk.util.DirectoryManagerFactoryTest.createDefaultDirectoryManagerPath,org.wikidata.wdtk.util.DirectoryManagerFactoryTest.createDirectoryManagerIoException']
+-0.004994891,<VIC>['org.wikidata.wdtk.util.DirectoryManagerFactoryTest.createDefaultDirectoryManagerPath,org.wikidata.wdtk.util.DirectoryManagerFactoryTest.createDirectoryManagerString']

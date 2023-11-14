@@ -1,0 +1,8 @@
+-0.6928441,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testSetPortletMode,org.apache.struts2.portlet.util.PortletUrlHelperTest.testCreateRenderUrlWithNoModeOrState']
+-0.59627676,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testSetPortletMode,org.apache.struts2.portlet.context.PortletActionContextTest.testIsRender']
+-0.49661055,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testSetPortletMode,org.apache.struts2.portlet.result.PortletResultTest.testTitleAndContentType']
+-0.15214275,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testSetPortletMode,org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrlWithTwoNestedParam']
+-0.08527275,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testSetPortletMode,org.apache.struts2.portlet.context.PortletActionContextTest.testGetNamespace']
+-0.073856935,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testSetPortletMode,org.apache.struts2.portlet.context.PortletActionContextTest.testGetDefaultActionForMode']
+-0.070896946,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testSetPortletMode,org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithNoActionOrMethod']
+-0.057776038,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testSetPortletMode,org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrlWithNestedParam']
