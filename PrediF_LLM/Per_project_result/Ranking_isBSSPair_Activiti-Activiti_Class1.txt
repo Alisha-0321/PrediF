@@ -1,7 +1,0 @@
--0.011524062,<VIC>['org.activiti.spring.boot.tasks.TaskRuntimeClaimReleaseTest.bClaimAndRelease,org.activiti.spring.boot.tasks.TaskRuntimeClaimReleaseTest.aCreateStandaloneTaskForGroup']
--0.0019020814,<VIC>['org.activiti.spring.boot.tasks.TaskRuntimeClaimReleaseTest.bClaimAndRelease,org.activiti.spring.boot.tasks.TaskRuntimeClaimReleaseTest.dCreateStandaloneTaskAndClaimAndReleaseUnAuthorized']
--0.44036737,<VIC>['org.activiti.spring.boot.tasks.TaskRuntimeClaimReleaseTest.eCreateStandaloneTaskAndClaimAndReleaseUnAuthorized,org.activiti.spring.boot.tasks.TaskRuntimeClaimReleaseTest.dCreateStandaloneTaskAndClaimAndReleaseUnAuthorized']
--0.0011568528,<VIC>['org.activiti.spring.boot.tasks.TaskRuntimeClaimReleaseTest.bClaimAndRelease,org.activiti.spring.boot.tasks.TaskRuntimeDeleteTaskTest.aCreateStandaloneTaskAndDelete']
--0.0041650697,<VIC>['org.activiti.spring.boot.tasks.TaskRuntimeClaimReleaseTest.bClaimAndRelease,org.activiti.spring.boot.tasks.TaskRuntimeDeleteTaskTest.eClaimTaskCreatedForGroup']
--0.0016550428,<VIC>['org.activiti.spring.boot.tasks.TaskRuntimeClaimReleaseTest.bClaimAndRelease,org.activiti.spring.boot.tasks.TaskRuntimeCompleteTaskTest.aCreateStandaloneTaskAndComplete']
--0.0014188947,<VIC>['org.activiti.spring.boot.tasks.TaskRuntimeClaimReleaseTest.bClaimAndRelease,org.activiti.spring.boot.tasks.TaskRuntimeUnAuthorizedTest.bClaimNotFoundBecauseYouAreNotACandidate']

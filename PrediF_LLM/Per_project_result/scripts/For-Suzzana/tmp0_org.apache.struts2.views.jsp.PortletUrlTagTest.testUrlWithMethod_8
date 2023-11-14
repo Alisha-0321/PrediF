@@ -1,5 +1,0 @@
--0.5127084,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithMethod,org.apache.struts2.portlet.interceptor.PortletAwareInterceptorTest.testPortletRequestIsSet']
--0.3143156,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithMethod,org.apache.struts2.portlet.PortletRequestMapTest.testClear']
--0.21552987,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithMethod,org.apache.struts2.portlet.PortletApplicationMapTest.testGetFromAttributes']
--0.08426045,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithMethod,org.apache.struts2.portlet.PortletRequestMapTest.testPut']
--0.06726478,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testUrlWithMethod,org.apache.struts2.portlet.PortletRequestMapTest.testGet']

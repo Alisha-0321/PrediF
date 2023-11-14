@@ -1,1 +1,0 @@
--0.0020828,<VIC>['org.springframework.data.envers.repository.support.QueryDslRepositoryIntegrationTests.testWithRevisions,org.springframework.data.envers.repository.support.QueryDslRepositoryIntegrationTests.testWithQueryDsl']

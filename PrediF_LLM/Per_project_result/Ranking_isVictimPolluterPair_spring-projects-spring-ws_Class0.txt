@@ -1,1 +1,0 @@
--0.0077697206,<VIC>['org.springframework.ws.soap.security.xwss.callback.SpringDigestPasswordValidationCallbackHandlerTest.testAuthenticateUserDigestUserNotFound,org.springframework.ws.soap.security.xwss.callback.SpringPlainTextPasswordValidationCallbackHandlerTest.testAuthenticateUserPlainTextInvalid']

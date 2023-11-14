@@ -1,4 +1,0 @@
--0.09118062,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrl,org.apache.struts2.portlet.context.PortletActionContextTest.testGetRenderRequestAndResponseInEventPhase']
--0.09015969,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrl,org.apache.struts2.portlet.context.PortletActionContextTest.testGetActionRequestAndResponseInRenderPhase']
--0.08604188,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrl,org.apache.struts2.portlet.interceptor.PortletAwareInterceptorTest.testPortletRequestIsSet']
--0.07073924,<VIC>['org.apache.struts2.views.jsp.PortletUrlTagTest.testResourceUrl,org.apache.struts2.portlet.PortletRequestMapTest.testClear']

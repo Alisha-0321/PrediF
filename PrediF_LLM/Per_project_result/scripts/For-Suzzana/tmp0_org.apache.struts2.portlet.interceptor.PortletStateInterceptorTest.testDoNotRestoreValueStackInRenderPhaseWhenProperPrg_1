@@ -1,3 +1,0 @@
--0.6488744,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testDoNotRestoreValueStackInRenderPhaseWhenProperPrg,org.apache.struts2.portlet.dispatcher.Jsr168DispatcherTest.testParseConfigWithBang']
--0.071101815,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testDoNotRestoreValueStackInRenderPhaseWhenProperPrg,org.apache.struts2.portlet.PortletApplicationMapTest.testRemove']
--0.027308628,<VIC>['org.apache.struts2.portlet.interceptor.PortletStateInterceptorTest.testDoNotRestoreValueStackInRenderPhaseWhenProperPrg,org.apache.struts2.portlet.result.PortletResultTest.testTitleAndContentType']

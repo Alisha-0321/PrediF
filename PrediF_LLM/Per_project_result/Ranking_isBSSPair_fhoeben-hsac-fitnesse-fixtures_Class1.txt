@@ -1,4 +1,0 @@
--0.0013981815,<VIC>['nl.hsac.fitnesse.fixture.slim.FileFixtureTest.testDelete,nl.hsac.fitnesse.fixture.slim.FileFixtureTest.testAppendContainingOnNewline']
--0.0012855608,<VIC>['nl.hsac.fitnesse.fixture.slim.FileFixtureTest.testDelete,nl.hsac.fitnesse.fixture.slim.FileFixtureTest.testAppendContainingOnSameline']
--0.0013653252,<VIC>['nl.hsac.fitnesse.fixture.slim.FileFixtureTest.testDelete,nl.hsac.fitnesse.fixture.slim.FileFixtureTest.testCopyTo']
--0.0012505576,<VIC>['nl.hsac.fitnesse.fixture.slim.FileFixtureTest.testDelete,nl.hsac.fitnesse.fixture.slim.FileFixtureTest.testTakeFirstLineFrom']

@@ -1,5 +1,0 @@
--0.040609304,<VIC>['io.github.jhipster.registry.web.rest.errors.ExceptionTranslatorTest.processMethodNotSupportedExceptionTest,io.github.jhipster.registry.web.rest.AccountResourceTest.testGetUnknownAccount']
--0.04070854,<VIC>['io.github.jhipster.registry.web.rest.AccountResourceTest.testGetUnknownAccount,io.github.jhipster.registry.web.rest.errors.ExceptionTranslatorTest.processParameterizedValidationErrorTest']
--0.041035824,<VIC>['io.github.jhipster.registry.web.rest.AccountResourceTest.testGetUnknownAccount,io.github.jhipster.registry.web.rest.errors.ExceptionTranslatorTest.processRuntimeExceptionTest']
--0.040724907,<VIC>['io.github.jhipster.registry.web.rest.AccountResourceTest.testGetUnknownAccount,io.github.jhipster.registry.web.rest.errors.ExceptionTranslatorTest.processAccessDeniedExceptionTest']
--0.04016256,<VIC>['io.github.jhipster.registry.web.rest.errors.ExceptionTranslatorTest.processValidationErrorTest,io.github.jhipster.registry.web.rest.AccountResourceTest.testGetUnknownAccount']

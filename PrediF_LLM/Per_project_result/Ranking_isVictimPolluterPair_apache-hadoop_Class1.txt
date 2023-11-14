@@ -1,3 +1,0 @@
--0.0065932595,<VIC>['org.apache.hadoop.mapreduce.v2.hs.TestJobHistoryParsing.testHistoryParsing,org.apache.hadoop.mapreduce.v2.hs.TestJobHistoryEvents.testHistoryEvents']
--0.027518215,<VIC>['org.apache.hadoop.mapreduce.v2.hs.TestJobHistoryParsing.testHistoryParsing,org.apache.hadoop.mapreduce.v2.hs.TestJobHistoryEvents.testAssignedQueue']
--0.09033909,<VIC>['org.apache.hadoop.mapreduce.v2.hs.TestJobHistoryParsing.testHistoryParsing,org.apache.hadoop.mapreduce.v2.hs.TestJobHistoryEvents.testEventsFlushOnStop']
